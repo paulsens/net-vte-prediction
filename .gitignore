@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.pt
+*.ckpt
+*.p
+lightning_logs/
+*.log
+.DS_Store
